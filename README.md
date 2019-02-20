@@ -16,7 +16,6 @@
 * Ejemplo 2: Desplegando la aplicación GuestBook 
 * Ejemplo 3: Desplegando la aplicación LetsChat
 * Recursos de Kubernetes: Ingress
-* Recursos de Kubernetes: Ingress
 * Ejemplo 4: Accediendo a nuestras aplicaciones con Ingress
 * Recursos de Kubernetes: Namespaces
 * Configurando nuestras aplicaciones con variables de entorno, ConfigMaps, Secrets
